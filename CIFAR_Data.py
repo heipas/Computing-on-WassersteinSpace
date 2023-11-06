@@ -61,7 +61,6 @@ for i in range (0,np.size(Y_train)):
     CIFAR_D_train[i]=d
     CIFAR_P_f[i,:]=u
     CIFAR_P_g[i,:]=v
-    print(i)
 
 CIFAR_D_test=np.zeros(np.size(Y_test))
 for i in range (0,np.size(Y_test)):
