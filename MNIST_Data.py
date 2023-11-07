@@ -58,8 +58,6 @@ for i in range (0,np.size(Y_test)):
     dist,dict=ot.emd(TP,bary0,M,log=True)
     val=list(dict.values())
     d=val[0]
-    u=val[1]
-    v=val[2]
     MNIST_D_test[i]=d
 
 np.savetxt('MNIST_D_test.gz',MNIST_D_test,delimiter=',')
