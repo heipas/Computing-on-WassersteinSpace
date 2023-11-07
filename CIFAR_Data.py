@@ -68,8 +68,6 @@ for i in range (0,np.size(Y_test)):
     dist,dict=ot.emd(TP,X_reference,M,log=True)
     val=list(dict.values())
     d=val[0]
-    u=val[1]
-    v=val[2]
     CIFAR_D_test[i]=d
 
 np.savetxt('CIFAR_D_test.gz',CIFAR_D_test,delimiter=',')
