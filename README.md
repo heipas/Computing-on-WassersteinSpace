@@ -12,3 +12,4 @@ Accordingly, Sec6p2_MNIST.ipynb and Sec6p2_CIFAR.ipynb are the the Jupyter Noteb
 
 Finally, Sec6p3Cheeger.ipynb and Sec6p3L2.ipynb are the Jupyter Notebooks for the experiments leveraging the Euler-Lagrange approach.
 
+%------------------- test
