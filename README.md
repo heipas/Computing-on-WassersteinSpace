@@ -1,6 +1,6 @@
 # Computing-on-WassersteinSpace
 
-This repository contains the codes to run the experiments of the work "Approximation Theory, Computing, and Deep Learning on the Wasserstein Space" by Massimo Fornasier, Pascal Heid, and Giacomo E. Sodini (https://arxiv.org/abs/2310.19548). 
+This repository contains the codes to run (most of) the experiments of the manuscript "Approximation Theory, Computing, and Deep Learning on the Wasserstein Space" by Massimo Fornasier, Pascal Heid, and Giacomo E. Sodini (https://arxiv.org/abs/2310.19548). 
 
 ** Important note: ** The Sections below refer to the second version on arXiv (https://arxiv.org/abs/2310.19548v2)! We added, however, an experiment employing a CNN to approximate the Wasserstein distance. This repository will be updated, once the paper has been accepted for publication and the final structure of the manuscript is settled.
 
