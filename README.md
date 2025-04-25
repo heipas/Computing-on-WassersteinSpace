@@ -10,4 +10,8 @@ Sec6p1_MNIST.ipynb is a Jupyter Notebook for the experiments in Section 6.1 base
 
 Accordingly, Sec6p2_MNIST.ipynb and Sec6p2_CIFAR.ipynb are the the Jupyter Notebooks for the experiments in Section 6.2.
 
-Finally, Sec6p3Cheeger.ipynb and Sec6p3L2.ipynb are the Jupyter Notebooks for the experiments leveraging the Euler-Lagrange approach.
+In Sec6p3_CIFAR.ipynb we perform the experiments for a fully trainable neural network as considered in Section 6.3.
+
+Finally, Sec6p4_Cheeger.ipynb and Sec6p4_L2.ipynb are the Jupyter Notebooks for the experiments leveraging the Euler-Lagrange approach.
+
+**Remark (25.04.2025):** The Repository will be updated in the coming days! 
