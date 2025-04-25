@@ -14,4 +14,4 @@ In Sec6p3_CIFAR.ipynb we perform the experiments for a fully trainable neural ne
 
 Finally, Sec6p4_Cheeger.ipynb and Sec6p4_L2.ipynb are the Jupyter Notebooks for the experiments leveraging the Euler-Lagrange approach.
 
-**Remark (25.04.2025):** The Repository will be updated in the coming days! 
+**Remark (25.04.2025):** The repository will be updated in the coming days! 
